@@ -1,0 +1,10 @@
+# Required
+saint_coinach_install_location: Put SaintCoinach.Cmd.exe executable folder here!
+ffxiv_install_location: Put FFXIV install folder here!
+
+# Optional - these only need to be defined if you're making a Google Sheet application.
+# Sample definitions are left here to indicate what these would look like.
+spreadsheet_id: Put spreadsheet ID here!
+item_range: items!A:N
+recipe_info_range: recipe_info!A:I
+recipe_materials_range: recipe_materials!A:C

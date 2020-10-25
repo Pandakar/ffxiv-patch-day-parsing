@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+debug_csvs/
+credentials.json
+token.pickle
+config.yml
