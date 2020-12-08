@@ -15,9 +15,9 @@ import google_sheets_connector
 import import_item
 import import_recipe
 
-LAST_RAID_PATCH = 520
+LAST_RAID_PATCH = 540
 CURRENT_MAIN_PATCH = 535
-EXPECTED_GEAR_ILV = "480"
+EXPECTED_GEAR_ILV = "510"
 
 
 def get_current_game_version(ffxiv_install_location):
